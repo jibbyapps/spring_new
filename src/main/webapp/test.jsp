@@ -12,7 +12,7 @@
 </head>
 <body>
 <h1>This is my first Spring app</h1>
-<p>test rockstar1</p>
+<p>test rockstar2</p>
 
 </body>
 </html>
